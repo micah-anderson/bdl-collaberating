@@ -16,4 +16,32 @@
 
 *Acumen*: keenness and depth of perception, discernment, or discrimination especially in practical matters which leads to the ability to make good judgements and make quick decisions.
 
-ish
+## Umer's short bio
+
+### Name:
+- 
+
+### Where I'm from:
+- 
+
+### A favourite dish of mine:
+- 
+
+### Definition of a word:
+
+*<word goes here>*: <definition goes here>
+
+## Carlo's short bio
+
+### Name:
+- 
+
+### Where I'm from:
+- 
+
+### A favourite dish of mine:
+- 
+
+### Definition of a word:
+
+*<word goes here>*: <definition goes here>
