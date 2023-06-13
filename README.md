@@ -1,5 +1,5 @@
 # collaberating
-####17th exercise of Basic Digital Literacy
+17th exercise of Basic Digital Literacy
 
 ## Micah's short bio
 
